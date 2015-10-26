@@ -1,0 +1,16 @@
+{
+	"node_modules" : "../node_modules/"
+	, "namespace" : "zero"
+	, "portRR" : 3003
+	, "portLocal" : 3000
+	, "portStaic" : 3001
+	, "portDS" : 3002
+	, "tplTmp" : "../tmp/"
+	, "libPath" : "./lib/"
+	, "runPath" : "../.run"
+	, "modPath" : "../widgets/"
+	, "HostIP" : "127.0.0.1"
+	, "DSEnd" : {
+		"lc": "http://172.17.30.21:3128/"
+		}
+}
